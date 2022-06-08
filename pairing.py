@@ -1,10 +1,10 @@
 import psycopg2 as pg2
 import csv
 
-host = 'ec2-3-233-7-12.compute-1.amazonaws.com'
-database = 'd5eq8q0mlqoblu'
-user_database = 'iyuckjkrlerfwj'
-password = 'd6917a96198a1a2e780212478ca10d22c6bae254a694be848a9ef3e66c77bb3a'
+host = os.environ['host']
+database = os.environ['database']
+user_database = os.environ['username']
+password = os.environ['password']
 
 with open('file.csv', newline='') as f:
     reader = csv.reader(f)
