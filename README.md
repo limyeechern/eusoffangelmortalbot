@@ -12,10 +12,16 @@ Randomisation of angel and mortal pairing can be done with angelMortalPairingHel
 
 ## Conversation
 ### Obtaining mortal information
+
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/66681646/172511981-9c2532fd-df3f-46ac-be7f-487e351d9fb8.png">
+
 ### Speaking to both angel and mortal as you wish 
+
 ![image](https://user-images.githubusercontent.com/66681646/172512067-f22bd92c-b3c9-4e9d-90d4-7d2b1ad17c55.png)
+
 ![image](https://user-images.githubusercontent.com/66681646/172512187-1bda38a8-de76-416c-8c2a-ae4406de1f9f.png)
+
 ### Supports all that a normal conversation has
+
 ![image](https://user-images.githubusercontent.com/66681646/172512409-7750a829-3d07-4f1b-a20c-fdbc6536a1b9.png)
 
