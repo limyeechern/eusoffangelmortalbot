@@ -10,7 +10,6 @@ Randomisation of angel and mortal pairing can be done with angelMortalPairingHel
 3. Obtaining mortal information via /getmortal
 ![image](https://user-images.githubusercontent.com/66681646/172511903-67a10464-42bf-484b-8ed7-94c492196a9f.png)
 
-## Conversation
 ### Obtaining mortal information
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/66681646/172511981-9c2532fd-df3f-46ac-be7f-487e351d9fb8.png">
